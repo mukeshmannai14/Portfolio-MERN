@@ -26,7 +26,7 @@ const projects = [
       "REST API integration",
     ],
     github: "https://github.com/mukeshmannai14/My-blog-portfolio",
-    live: "https://my-blog-portfolio.onrender.com/",
+    live: "https://mukesh-portfolio-rosy.vercel.app/login",
   },
 
   {
@@ -55,7 +55,7 @@ const projects = [
       "REST APIs",
     ],
     github: "https://github.com/mukeshmannai14/Bulkmail-App",
-    live: "",
+    live: "https://frontend-swart-tau-yx9s96g8fa.vercel.app/",
   },
 
   {
@@ -84,7 +84,7 @@ const projects = [
       "MongoDB persistence",
     ],
     github: "https://github.com/mukeshmannai14/Mern-Ecommerence",
-    live: "",
+    live: "https://mern-ecommerce-murex-pi.vercel.app/",
   },
 
   {
@@ -111,7 +111,7 @@ const projects = [
       "Mobile-friendly navigation",
     ],
     github: "https://github.com/mukeshmannai14/greenify-website",
-    live: "",
+    live: "https://mukeshmannai14.github.io/greenify-website/",
   },
 ];
 
