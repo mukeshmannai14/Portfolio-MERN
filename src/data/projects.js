@@ -1,0 +1,118 @@
+const projects = [
+  {
+    id: 1,
+    title: "Full Stack Blog & Portfolio Platform",
+    category: "Full Stack",
+    description:
+      "A full-stack blog and portfolio platform with user registration, login, blog browsing, content management and user interactions.",
+    technologies: [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB Atlas",
+      "Firebase Authentication",
+      "REST APIs",
+      "Axios",
+      "Render",
+    ],
+    features: [
+      "User registration",
+      "User login",
+      "Blog browsing",
+      "CRUD operations",
+      "Firebase Authentication",
+      "Admin-only publishing",
+      "Role-Based Access Control",
+      "REST API integration",
+    ],
+    github: "https://github.com/mukeshmannai14/My-blog-portfolio",
+    live: "https://my-blog-portfolio.onrender.com/",
+  },
+
+  {
+    id: 2,
+    title: "Bulk Email Management Application",
+    category: "Full Stack",
+    description:
+      "A web application for importing Excel recipient lists and managing bulk email workflows with authentication, email processing and history tracking.",
+    technologies: [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "JWT",
+      "XLSX",
+      "Axios",
+      "REST APIs",
+    ],
+    features: [
+      "Excel recipient list upload",
+      "XLSX processing",
+      "Data validation",
+      "JWT authentication",
+      "Email processing",
+      "History tracking",
+      "REST APIs",
+    ],
+    github: "https://github.com/mukeshmannai14/Bulkmail-App",
+    live: "",
+  },
+
+  {
+    id: 3,
+    title: "ShopHub E-Commerce Application",
+    category: "Full Stack",
+    description:
+      "A MERN-based e-commerce application with product browsing, shopping cart, checkout and order management.",
+    technologies: [
+      "React.js",
+      "Redux",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "REST APIs",
+      "Axios",
+    ],
+    features: [
+      "Product browsing",
+      "Shopping cart",
+      "Checkout",
+      "Order management",
+      "Redux state management",
+      "Product REST APIs",
+      "Order REST APIs",
+      "MongoDB persistence",
+    ],
+    github: "https://github.com/mukeshmannai14/Mern-Ecommerence",
+    live: "",
+  },
+
+  {
+    id: 4,
+    title: "Greenify - Plant E-Commerce Website",
+    category: "Frontend",
+    description:
+      "A modern plant e-commerce website featuring responsive design, live product search functionality and a mobile hamburger menu.",
+    technologies: [
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "JavaScript",
+      "Font Awesome",
+      "Tailwind CSS CDN",
+    ],
+    features: [
+      "Responsive design",
+      "Live product search",
+      "Mobile hamburger menu",
+      "Modern plant e-commerce UI",
+      "Tailwind CSS styling",
+      "JavaScript interactions",
+      "Mobile-friendly navigation",
+    ],
+    github: "https://github.com/mukeshmannai14/greenify-website",
+    live: "",
+  },
+];
+
+export default projects;
