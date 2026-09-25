@@ -91,8 +91,39 @@ const projects = [
   github: "https://github.com/mukeshmannai14/Mern-Ecommerence",
   live: "https://mern-ecommerce-murex-pi.vercel.app/",
 },
+
+{
+  id: 4 ,
+  title: "Weather Forecast Application",
+  category: "Frontend",
+  description:
+    "A responsive weather forecasting application that allows users to search for cities and view real-time weather information including temperature, humidity, wind speed and weather conditions.",
+  technologies: [
+    "React.js",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "REST API",
+    "Axios",
+    "OpenWeather API",
+  ],
+  features: [
+    "City-based weather search",
+    "Real-time weather data",
+    "Temperature display",
+    "Humidity information",
+    "Wind speed information",
+    "Weather condition display",
+    "API integration",
+    "Responsive design",
+    "Loading state handling",
+    "Error handling",
+  ],
+  github: "https://github.com/mukeshmannai14/weather-app",
+  live: "https://weather-app-gilt-beta-83.vercel.app/",
+},
   {
-    id: 4,
+    id: 5,
     title: "Greenify - Plant E-Commerce Website",
     category: "Frontend",
     description:
