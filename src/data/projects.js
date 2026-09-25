@@ -44,6 +44,7 @@ const projects = [
       "XLSX",
       "Axios",
       "REST APIs",
+      "Nodemailer"
     ],
     features: [
       "Excel recipient list upload",
